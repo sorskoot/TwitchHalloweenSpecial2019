@@ -1,0 +1,20 @@
+{
+  "name": "TwitchHalloweenSpecial2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -p 666 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorskoot/TwitchHalloweenSpecial2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorskoot/TwitchHalloweenSpecial2019/issues"
+  },
+  "homepage": "https://github.com/sorskoot/TwitchHalloweenSpecial2019#readme"
+}

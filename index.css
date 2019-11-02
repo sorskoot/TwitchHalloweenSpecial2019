@@ -1,0 +1,20 @@
+body{
+    background-color:black;
+}
+div{
+    color: #666;
+    font-size:.666em;
+}
+
+.time{
+    color: #666;
+    font-size:.8em;
+    margin-right:10px;
+}
+
+div:first-child{
+    font-size:1.5em;
+    font-weight: bold;
+    color:#FF88FF;
+    margin-bottom:25px;
+}
